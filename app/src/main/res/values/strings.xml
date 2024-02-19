@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="my_set_file">My_Settings</string>
+    <string name="user_name">User Name</string>
+    <string name="user_hint">Enter user name</string>
+    <string name="password">Password</string>
+    <string name="pass_hint">Enter Password</string>
+    <string name="light_mode">Select Lighting Mode</string>
+    <string name="dl_switch">Dark/Light</string>
+</resources>
